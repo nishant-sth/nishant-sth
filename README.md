@@ -23,7 +23,6 @@
 
 ## 🛠️ Languages and Tools
 
-<div align="center">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -63,13 +62,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-</div>
+
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-stha&layout=compact&theme=dark)
-  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishant-stha&show_icons=true&theme=dark)
 </div>
 
