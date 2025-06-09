@@ -7,7 +7,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Eco-Garment-Backend**
 - 🌱 Learning **GraphQL**
 - 👯 Looking to collaborate on **Backend projects**
 - 🤝 Seeking help with **DevOps**
